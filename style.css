@@ -1,0 +1,10 @@
+.body_backgorund {
+    background-image:url("https://image.shutterstock.com/image-illustration/mock-poster-ceiling-lamps-3d-260nw-246798679.jpg");
+    background-position:center;
+    background-size:cover;
+}
+#myCanvas{
+border-width:10px;
+background-color: aliceblue;
+border-style: ridge;
+}
